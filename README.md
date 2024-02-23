@@ -1,5 +1,5 @@
 <img>
-<img src="https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/blob/6b534f93cee873472edabe62cfd2a2c43fe21155/SWE%20banner.png" alt="Banner">
+<img src="https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/blob/6b534f93cee873472edabe62cfd2a2c43fe21155/SWE%20banner.png" alt="Banner" width="900" height="425" >
 
 <h2>Hi, I'm Winta! </br><a href="https://www.linkedin.com/in/winta-bahlibi-95a030250">Software Engineer</a></h2>
 
