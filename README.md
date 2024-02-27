@@ -1,6 +1,6 @@
-<img>
-<img src="https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/blob/6b534f93cee873472edabe62cfd2a2c43fe21155/SWE%20banner.png" alt="Banner" width="900" height="425" >
+![SWE LOGO1](https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/assets/119873625/8c919048-0c25-45c1-9a85-08c727bc84a3)
 
+<br>
 <h2>Hi, I'm Winta! </br><a href="https://www.linkedin.com/in/winta-bahlibi-95a030250">Software Engineer</a></h2>
 
 <h3>Software Development Projects</h3>
