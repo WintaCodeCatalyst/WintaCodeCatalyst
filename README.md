@@ -4,7 +4,12 @@
 <h2>Hi, I'm Winta! </br><a href="https://www.linkedin.com/in/winta-bahlibi-95a030250">Software Engineer</a></h2>
 
 <h3>Software Development Projects</h3>
-  <b>Web Development [coming soon]</b>
+  <b>Web Development</b>
+  <br>
+    I) Calculator (https://github.com/WintaCodeCatalyst/Calculator?tab=readme-ov-file#simple-calculator) 
+    <br>
+    II) Color guessing game (https://github.com/WintaCodeCatalyst/Color-Guessing-Game?tab=readme-ov-file#color-guessing-game)
+  <br>
   <br>
   <b>Java Programming [coming soon]</b>
 
