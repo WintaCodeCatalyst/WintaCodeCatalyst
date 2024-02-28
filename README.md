@@ -1,26 +1,29 @@
+
 ![SWE LOGO1](https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/assets/119873625/8c919048-0c25-45c1-9a85-08c727bc84a3)
 
-<br>
-<h2>Hi, I'm Winta! </br><a href="https://www.linkedin.com/in/winta-bahlibi-95a030250">Software Engineer</a></h2>
+## Hi, I'm Winta!
 
-<h3>Software Development Projects</h3>
-  <b>Web Development </b>
-  <br>
-    [Calculator](https://github.com/WintaCodeCatalyst/Calculator?tab=readme-ov-file#simple-calculator) 
-    <br>
-    [Color Guessing Game](https://github.com/WintaCodeCatalyst/Color-Guessing-Game#color-guessing-game)
-    <br>  
-    [Tech Shoppe](https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
-  <br>
-  <br>
-  <b>Java Programming [coming soon]</b>
+[Software Engineer](https://www.linkedin.com/in/winta-bahlibi-95a030250)
 
-<h3>Certifications</h3>
-  <b>Web Development [2022]</b>
-  
-  <b>Generative AI for Software Developers [2024]</b>
-  
-<h3>Connect with me</h3>
+## Software Development Projects
 
-  Linkedin<img align="left" alt="WintaBahlibi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+### Web Development
+
+[Calculator](https://github.com/WintaCodeCatalyst/Calculator?tab=readme-ov-file#simple-calculator)
+
+[Color Guessing Game](https://github.com/WintaCodeCatalyst/Color-Guessing-Game#color-guessing-game)
+
+[Tech Shoppe](https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
+
+Java Programming [coming soon]
+
+## Certifications
+Web Development [2022]
+
+
+Generative AI for Software Developers [2024]
+ 
+## Connect with me
+
+Linkedin <img align="left" alt="WintaBahlibi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 
