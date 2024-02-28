@@ -6,11 +6,11 @@
 <h3>Software Development Projects</h3>
   <b>Web Development </b>
   <br>
-    [ Calculator ] (https://github.com/WintaCodeCatalyst/Calculator?tab=readme-ov-file#simple-calculator) 
+    [Calculator](https://github.com/WintaCodeCatalyst/Calculator?tab=readme-ov-file#simple-calculator) 
     <br>
-    [ Color Guessing Game ] (https://github.com/WintaCodeCatalyst/Color-Guessing-Game#color-guessing-game)
+    [Color Guessing Game](https://github.com/WintaCodeCatalyst/Color-Guessing-Game#color-guessing-game)
     <br>  
-    [ Tech Shoppe ] (https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
+    [Tech Shoppe](https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
   <br>
   <br>
   <b>Java Programming [coming soon]</b>
