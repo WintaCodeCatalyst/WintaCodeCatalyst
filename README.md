@@ -15,7 +15,8 @@
 
 [Tech Shoppe](https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
 
-Java Programming [coming soon]
+### Java Programming
+[JavaCoffeeShoppe](https://github.com/WintaCodeCatalyst/JavaCoffeeShoppe#)
 
 ## Certifications
 Web Development [2022]
