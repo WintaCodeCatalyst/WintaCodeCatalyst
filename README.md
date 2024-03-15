@@ -1,5 +1,5 @@
+![SWE LOGO (2)](https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/assets/119873625/56010e6c-0122-4f0f-87a4-49ce025514ce)
 
-![SWE LOGO1](https://github.com/WintaCodeCatalyst/WintaCodeCatalyst/assets/119873625/8c919048-0c25-45c1-9a85-08c727bc84a3)
 
 ## Hi, I'm Winta!
 
