@@ -16,10 +16,10 @@
 [Tech Shoppe](https://github.com/WintaCodeCatalyst/Tech-Shoppe/tree/main?tab=readme-ov-file#tech-shoppe)
 
 ### Java Programming
-[JavaCoffeeShoppe](https://github.com/WintaCodeCatalyst/JavaCoffeeShoppe#)
+[Java Ice Cream Shoppe](https://github.com/WintaCodeCatalyst/JavaCoffeeShoppe#)
 
 ### Cloud Computing
-[CustomVirutalPrivateNetwork](https://github.com/WintaCodeCatalyst/VirtualPrivateNetwork-VPN-#) 
+[VPN](https://github.com/WintaCodeCatalyst/VirtualPrivateNetwork-VPN-#) 
 
 ## Certifications
 Web Development [2022]
