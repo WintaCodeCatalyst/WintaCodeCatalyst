@@ -20,8 +20,11 @@
 ### Java Programming
 [Java Ice Cream Shoppe](https://github.com/WintaCodeCatalyst/JavaCoffeeShoppe#)
 
-### Cloud Computing
+### GenAI & Cloud Computing
+[SoftwareDevChatbot](https://github.com/WintaCodeCatalyst/software-dev-chatbot#software-dev-chatbot)
+
 [VPN](https://github.com/WintaCodeCatalyst/VirtualPrivateNetwork-VPN-#) 
+
 
 ## Certifications
 Web Development [2022]
