@@ -3,7 +3,7 @@
 
 ## Hi, I'm Winta!
 
-[Software Engineer](https://www.linkedin.com/in/winta-bahlibi-95a030250)
+[Oracle Financial Technology Associate](https://www.linkedin.com/in/winta-bahlibi-95a030250)
 
 ## Software Development Projects
 
